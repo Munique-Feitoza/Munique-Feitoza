@@ -1,7 +1,12 @@
 ### Oi! Eu sou Munique Feitoza ✨
 
-- 🌱 Estudando: React e Banco de dados.
-- 😄 Pronomes: ela/dela.
+ #Sobre mim:
+• 🌱 Estudando: React e Banco de dados
+• 😄 Pronomes: ela/dela
+
+ #Idiomas:
+• 🗽 English (Inglês): B2 - B1 (intermediário)
+• ⛩️ 日本語 (Japonês): N5 (básico)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Munique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
