@@ -1,10 +1,10 @@
-### Oi! Eu sou Munique Feitoza ✨
+# Oi! Eu sou Munique Feitoza ✨
 
- # Sobre mim:
+ ### Sobre mim:
 * 🌱 Estudando: React e Banco de dados
 * 😄 Pronomes: ela/dela
 
- # Idiomas:
+ ### Idiomas:
 * 🗽 English (Inglês): B2 - B1 (intermediário)
 * ⛩️ 日本語 (Japonês): N5 (básico)
 
