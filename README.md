@@ -10,7 +10,7 @@
   ##
   
  ### Sobre mim:
-* 💻 Estudando: React e Banco de dados
+* 💻 Estudando: C# Banco de dados
 * 😄 Pronomes: ela/dela
 * 💰 A procura de um emprego
 
