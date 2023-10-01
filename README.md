@@ -19,8 +19,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
   ##
 
  ### Idiomas:
-* 🗽 English (Inglês): B2 - B1 (intermediário)
-* ⛩️ 日本語 (Japonês): N5 (básico)
+* 🇧🇷 Português (Portuguese/ポルトガル語): A1 (nativo)
+* 🇺🇸 English (Inglês/英語): B2 - B1 (intermediário)
+* 🇯🇵 日本語 (Japonês/Japanese): N5 (básico)
 
   ##
 
