@@ -10,6 +10,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 </div>
 
   ##
+
+ ### Estudando:
+<div style="display: inline_block"><br>
+
+</div>
+
+  ##
   
  ### Sobre mim:
 * 💻 Estudando: C# e Banco de dados
