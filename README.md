@@ -22,8 +22,10 @@ src="https://img.icons8.com/ios-filled/50/database.png" />
   
  ### Sobre mim:
 * 🏋🏻‍♀️ Esportes: Vôlei e musculação.
+* ☕ Café favorito: Pilão 250°C.
 * 😄 Pronomes: ela/dela.
-* 💰 A procura de um emprego
+* 💰 Procurando um emprego.
+* 🐾 Adepta a proteção dos animais.
 
   ##
 
