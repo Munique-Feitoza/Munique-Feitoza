@@ -21,8 +21,8 @@ src="https://img.icons8.com/ios-filled/50/database.png" />
   ##
   
  ### Sobre mim:
-* 💻 Estudando: C# e Banco de dados
-* 😄 Pronomes: ela/dela
+* 🏋🏻‍♀️ Esportes: Vôlei e musculação.
+* 😄 Pronomes: ela/dela.
 * 💰 A procura de um emprego
 
   ##
