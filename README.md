@@ -27,14 +27,14 @@ src="https://img.icons8.com/ios-filled/50/database.png" />
 * 💰 Procurando um emprego.
 * 🐾 Adepta a proteção dos animais.
 
-  ##
+  ###
 
  ### Idiomas:
 * 🇧🇷 Português (Portuguese/ポルトガル語): A1 (nativo)
 * 🇺🇸 English (Inglês/英語): B2 - B1 (intermediário)
 * 🇯🇵 日本語 (Japonês/Japanese): N5 (básico)
 
-  ##
+  ###
 
  ### Minhas redes sociais:
 <div> 
