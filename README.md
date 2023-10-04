@@ -10,13 +10,21 @@
 
 ##
 
+ ### Framework:
+<div style="display: inline_block"><br>
+ <img align="center" alt="Munique-React" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
+
+##
+
  ### Estudando:
 <div style="display: inline_block"><br>
  <img align="center" alt="Munique-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
  <img align="center" alt="Munique-DataBase" height="30" width="40"
 src="https://img.icons8.com/ios-filled/50/database.png" />
  <img align="center" alt="Munique-React" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
 </div>
 
 ##
