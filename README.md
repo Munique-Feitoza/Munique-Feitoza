@@ -36,11 +36,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-w
 ##
   
  ### About me:
-* 🏋🏻‍♀️ Esportes: Vôlei e musculação.
-* ☕ Café favorito: Pilão 250°C.
-* 😄 Pronomes: ela/dela.
-* 💰 Procurando um emprego.
-* 🐾 Adepta a proteção dos animais.
+* 🏋🏻‍♀️ Sports: Volleyball e gym.
+* ☕ Favorite coffee: Pilão 250°C.
+* 😄 Pronoun: she/her.
+* 🐾 PETA.
 
 ##
 
