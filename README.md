@@ -12,15 +12,15 @@
  ### Framework:
  // Basic Knowledge
 <div style="display: inline_block"><br>
- <img align="center" alt="Munique-React" height="30" width="40"
+ <img align="center" alt="Munique-React" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img align="center" alt="Munique-jQuery" height="30" width="40"
+ <img align="center" alt="Munique-jQuery" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
- <img align="center" alt="Munique-SASS" height="30" width="40"
+ <img align="center" alt="Munique-SASS" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
- <img align="center" alt="Munique-Bootstrap" height="30" width="40"
+ <img align="center" alt="Munique-Bootstrap" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
- <img align="center" alt="Munique-Redux" height="30" width="40"
+ <img align="center" alt="Munique-Redux" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 </div>
 
@@ -36,8 +36,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
  ### Studying:
 <div style="display: inline_block"><br>
- <img align="center" alt="Munique-Csharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
- <img align="center" alt="Munique-DataBase" height="60" width="80"
+ <img align="center" alt="Munique-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+ <img align="center" alt="Munique-DataBase" height="30" width="40"
 src="https://img.icons8.com/ios-filled/50/database.png" />
 </div>
 
