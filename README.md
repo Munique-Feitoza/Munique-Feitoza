@@ -28,8 +28,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
  ### Data base:
 <div style="display: inline_block"><br>
- <img align="center" alt="Munique-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
- <img align="center" alt="Munique-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" alt="Munique-SQLite" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+ <img align="center" alt="Munique-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ##
