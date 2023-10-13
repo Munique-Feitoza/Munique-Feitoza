@@ -42,12 +42,6 @@ src="https://img.icons8.com/ios-filled/50/database.png" />
 </div>
 
 ##
-
- ### Must language used:
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Munique-Feitoza&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-##
   
  ### My social media:
 <div style="display: inline_block"><br>
