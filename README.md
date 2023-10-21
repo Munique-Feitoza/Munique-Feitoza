@@ -10,7 +10,6 @@
 ##
 
  ### Framework:
- // Basic Knowledge
 <div style="display: inline_block"><br>
  <img align="center" alt="Munique-React" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -22,6 +21,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
  <img align="center" alt="Munique-Redux" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ <img align="center" alt="Munique-D3" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3/d3-original.svg" />
 </div>
 
 ##
