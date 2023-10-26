@@ -62,7 +62,7 @@ src="https://img.icons8.com/ios-filled/50/database.png" />
 
  ### About me:
 * 🏋🏻‍♀️ Sports: Volleyball e gym.
-* ☕ Favorite coffee: Pilão 250°C.
+* ☕ Favorite coffee: Pilão 252°C.
 * 😄 Pronoun: she/her.
 * 🐾 PETA.
 * 📱 I just have a cellphone and a dream.
