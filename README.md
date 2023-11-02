@@ -9,7 +9,7 @@
 
 ##
 
- ### Framework:
+ ### Framework and Libraries:
 <div style="display: inline_block"><br>
  <img align="center" alt="Munique-React" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
