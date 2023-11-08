@@ -53,9 +53,9 @@ src="https://img.icons8.com/ios-filled/50/database.png" />
 ##
 
  ### Language:
-* 🇧🇷 Português (Portuguese/ポルトガル語): A1 (nativo)
-* 🇺🇸 English (Inglês/英語): B2 - B1 (intermediário)
-* 🇯🇵 日本語 (Japonês/Japanese): N5 (básico)
+* 🇧🇷 Português (Portuguese/ポルトガル語): Native
+* 🇺🇸 English (Inglês/英語): Intermediate | Advance (B2 - C1)
+* 🇯🇵 日本語 (Japonês/Japanese): Basic (N5)
 
 ##
 
