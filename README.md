@@ -38,8 +38,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" 
  ### Learning:
 <div style="display: inline_block"><br>
  <img align="center" alt="Munique-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
- <img align="center" alt="Munique-DataBase" height="40" width="50"
-src="https://img.icons8.com/ios-filled/50/database.png" />
+ <img align="center" alt="Munique-TypeScript" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 </div>
 
 ##
