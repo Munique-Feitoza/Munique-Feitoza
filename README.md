@@ -42,6 +42,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  <img align="center" alt="Munique-Angular" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+ <img align="center" alt="Munique-MongoDB" height="50" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+ <img align="center" alt="Munique-NodeJS" height="50" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" alt="Munique-NPM" height="50" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 
 ##
