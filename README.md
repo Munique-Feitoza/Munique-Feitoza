@@ -73,3 +73,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmar
 * 😄 Pronoun: she/her.
 * 🐾 PETA.
 * 📱 I just have a cellphone and a dream.
+* 📖 Reading: 14 Habits of Highly Productive Developers
