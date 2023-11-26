@@ -21,6 +21,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  <img align="center" alt="Munique-Angular" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+ <img align="center" alt="Munique-NodeJS" height="50" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img align="center" alt="Munique-NPM" height="50" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
  <img align="center" alt="Munique-jQuery" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
  <img align="center" alt="Munique-SASS" height="50" width="50"
@@ -33,6 +37,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
  ### Data base:
 <div style="display: inline_block"><br>
+ <img align="center" alt="Munique-MongoDB" height="50" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
  <img align="center" alt="Munique-SQLite" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
  <img align="center" alt="Munique-MySQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
@@ -42,12 +48,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
  ### Learning:
 <div style="display: inline_block"><br>
  <img align="center" alt="Munique-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
- <img align="center" alt="Munique-MongoDB" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- <img align="center" alt="Munique-NodeJS" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" alt="Munique-NPM" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 
 ##
