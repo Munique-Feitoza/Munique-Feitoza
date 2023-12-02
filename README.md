@@ -68,6 +68,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 ##
 
  ### About me:
+* 🦺 Working: Restaurant attendant / treinee
 * 🏋🏻‍♀️ Sports: Volleyball e gym.
 * ☕ Favorite coffee: Pilão 252°C.
 * 😄 Pronoun: she/her.
