@@ -69,7 +69,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 
  ### About me:
 * 🦺 Working: Restaurant attendant
-* 🏋🏻‍♀️ Sports: Volleyball e gym.
+* 🏋🏻‍♀️ Sports: Volleyball, jiu-jitsu, krav magá e gym.
 * ☕ Favorite coffee: Pilão 252°C.
 * 😄 Pronoun: she/her.
 * 🐾 PETA.
