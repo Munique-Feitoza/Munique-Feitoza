@@ -31,6 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-w
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img align="center" alt="Munique-Redux" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+ <img align="center" alt="Munique-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 ##
@@ -48,7 +49,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
  ### Learning:
 <div style="display: inline_block"><br>
  <img align="center" alt="Munique-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
- <img align="center" alt="Munique-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img align="center" alt="Munique-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img align="center" alt="Munique-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ##
