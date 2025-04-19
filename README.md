@@ -11,12 +11,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
  <img align="center" alt="Munique-D3js" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
+  <img align="center" alt="Munique-Java" height="50" width="50" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  </div>
 
 ##
 
  ### Basic knowledge:
 <div style="display: inline_block"><br>
+ <img align="center" alt="Munique-Python" height="50" width="50" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" alt="Munique-TypeScript" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
  <img align="center" alt="Munique-Angular" height="50" width="50"
@@ -31,7 +35,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-w
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
  <img align="center" alt="Munique-Redux" height="50" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
- <img align="center" alt="Munique-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 ##
@@ -49,7 +52,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
  ### Learning:
 <div style="display: inline_block"><br>
  <img align="center" alt="Munique-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
- <img align="center" alt="Munique-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" alt="Munique-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
@@ -72,9 +74,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 
  ### About me:
 * 🦺 Working: Restaurant attendant
-* 🏋🏻‍♀️ Sports: Volleyball, jiu-jitsu, krav magá e gym.
+* 🏋🏻‍♀️ Sports: jiu-jitsu, Volleyball, krav magá e gym.
 * ☕ Favorite coffee: Pilão 252°C.
 * 😄 Pronoun: she/her.
 * 🐾 PETA.
-* 📱 I just have a cellphone and a dream.
-* 📖 Reading: 14 Habits of Highly Productive Developers
