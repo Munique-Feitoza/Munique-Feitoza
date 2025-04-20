@@ -1,80 +1,64 @@
-# Hey! I'm Munique Feitoza ✨
+# 👋 Hey there! I'm Munique Feitoza 
 
- ### Knowledge:
-<div style="display: inline_block"><br>
- <img align="center" alt="Munique-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img align="center" alt="Munique-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
- <img align="center" alt="Munique-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
- <img align="center" alt="Munique-React" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img align="center" alt="Munique-Bootstrap" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
- <img align="center" alt="Munique-D3js" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
-  <img align="center" alt="Munique-Java" height="50" width="50" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- </div>
+## 🚀 Full Stack Developer in Training | JavaScript and Java Enthusiast | Tech Explorer
 
-##
+```diff
++ Passionate about turning ideas into code and building creative solutions
++ Currently studying Systems Analysis and Development
++ Self-taught developer with a strong desire to learn and grow
+```
 
- ### Basic knowledge:
-<div style="display: inline_block"><br>
- <img align="center" alt="Munique-Python" height="50" width="50" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img align="center" alt="Munique-TypeScript" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
- <img align="center" alt="Munique-Angular" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
- <img align="center" alt="Munique-NodeJS" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" alt="Munique-NPM" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
- <img align="center" alt="Munique-jQuery" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
- <img align="center" alt="Munique-SASS" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
- <img align="center" alt="Munique-Redux" height="50" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+## 🛠️ Tech Stack
+
+### 💻 Core Skills
+<div style="display: inline_block"> <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> <img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/> <img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/> <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/> <img align="center" alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"/> </div>
+
+### 🗃️ Database Expertise
+<div style="display: inline_block"> <img align="center" alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"/> <img align="center" alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/> <img align="center" alt="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"/> </div>
+
+### 📚 Currently Learning
+<div style="display: inline_block"> <img align="center" alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/> <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+
+## 🌟 Featured Projects
+1. [Pokédex in JavaScript](https://github.com/Munique-Feitoza/pokedex_in_js) - Interactive Pokédex using PokeAPI
+2. [Pacman Game](https://github.com/Munique-Feitoza/pacman_in_js) - Classic Pacman built with Canvas API
+3. [Pong Game](https://github.com/Munique-Feitoza/ping_pong_game_in_js) - JavaScript implementation of the classic Pong
+4. [Student Monitoring System (Java)](https://github.com/Munique-Feitoza/monitoramento_de_alunos_em_java) - Desktop application for student performance tracking with MySQL database
+
+## 📫 Let's Connect!
+<div style="display: inline_block"> <a href="mailto:muniquefeitoz4@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/munique-feitoza-77034b231" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/> </a> 
+<a href="https://www.instagram.com/_nitroglycrin"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/> </a>
 </div>
 
-##
+## 🌍 Languages
+🇧🇷 Portuguese (Native)  
+🇺🇸 English (Advanced)  
+🇯🇵 Japanese (Basic - N5)  
 
- ### Data base:
-<div style="display: inline_block"><br>
- <img align="center" alt="Munique-MongoDB" height="50" width="70"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
- <img align="center" alt="Munique-SQLite" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
- <img align="center" alt="Munique-MySQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+## 🏆 Fun Facts
+🥋 Martial Artist (Jiu-Jitsu & Krav Maga)  
+💪 Fitness Enthusiast  
+☕ Coffee Connoisseur (Pilão 252°C is my favorite!)  
+🐾 Animal Lover & PETA Supporter  
+
+💻 Built my first projects using just a smartphone!
+
++ Currently looking for internship opportunities in web development!
++ Let's build something amazing together!
+
+<div align="center">
+<img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munique-Feitoza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-##
-
- ### Learning:
-<div style="display: inline_block"><br>
- <img align="center" alt="Munique-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
- <img align="center" alt="Munique-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
-
-##
-  
- ### My social media:
-<div style="display: inline_block"><br>
-  <a href="mailto:muniquefeitoz4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/munique-feitoza-77034b231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
- ### Language:
-* 🇧🇷 Português (Portuguese/ポルトガル語): Native
-* 🇺🇸 English (Inglês/英語): Intermediate | Advanced (B2 - C1)
-* 🇯🇵 日本語 (Japonês/Japanese): Basic (N5)
-
-##
-
- ### About me:
-* 🦺 Working: Restaurant attendant
-* 🏋🏻‍♀️ Sports: jiu-jitsu, Volleyball, krav magá e gym.
-* ☕ Favorite coffee: Pilão 252°C.
-* 😄 Pronoun: she/her.
-* 🐾 PETA.
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/Munique-Feitoza/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
