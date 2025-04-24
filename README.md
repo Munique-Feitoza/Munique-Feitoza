@@ -11,7 +11,15 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Core Skills
-<div style="display: inline_block"> <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> <img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/> <img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/> <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/> <img align="center" alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"/> </div>
+<div style="display: inline_block"> 
+        <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> 
+        <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> 
+        <img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/> 
+        <img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/> 
+        <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+        <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/> 
+        <img align="center" alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"/> 
+</div>
 
 ### 🗃️ Database Expertise
 <div style="display: inline_block"> <img align="center" alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"/> <img align="center" alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/> <img align="center" alt="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"/> </div>
@@ -22,7 +30,7 @@
 ## 🌟 Featured Projects
 1. [Pokédex in JavaScript](https://github.com/Munique-Feitoza/pokedex_in_js) - Interactive Pokédex using PokeAPI
 2. [Pacman Game](https://github.com/Munique-Feitoza/pacman_in_js) - Classic Pacman built with Canvas API
-3. [Pong Game](https://github.com/Munique-Feitoza/ping_pong_game_in_js) - JavaScript implementation of the classic Pong
+3. [Solucionador de Sudoku](https://github.com/Munique-Feitoza/solucionador_sudoku_python) - Python implementation of the classic Sudoku
 4. [Student Monitoring System (Java)](https://github.com/Munique-Feitoza/monitoramento_de_alunos_em_java) - Desktop application for student performance tracking with MySQL database
 
 ## 📫 Let's Connect!
