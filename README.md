@@ -25,7 +25,7 @@
 <div style="display: inline_block"> <img align="center" alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"/> <img align="center" alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/> <img align="center" alt="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"/> </div>
 
 ### 📚 Currently Learning
-<div style="display: inline_block"> <img align="center" alt="COBOL" height="50" src="https://api.iconify.design/vscode-icons:file-type-cobol.svg"/>
+<div style="display: inline_block"> <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
 </div>
 
 ## 🌟 Featured Projects
