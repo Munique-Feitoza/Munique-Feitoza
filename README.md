@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Munique Feitoza 
 
-## 🚀 Full Stack Developer in Training | JavaScript and Java Enthusiast | Tech Explorer
+## 🚀 Full Stack Developer in Training | JavaScript and Python Enthusiast | Tech Explorer
 
 ```diff
 + Passionate about turning ideas into code and building creative solutions
