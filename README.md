@@ -57,17 +57,10 @@
 
 <div align="center">
 <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munique-Feitoza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
 
-  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Munique-Feitoza/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
