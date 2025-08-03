@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Munique Feitoza 
 
-## 🚀 Full Stack Developer in Training | JavaScript and Python Enthusiast | Tech Explorer
+## 🚀 "Full Stack" Developer in Training | JavaScript, Python, C and Assembly Enthusiast | Tech Explorer
 
 ```diff
 + Passionate about turning ideas into code and building creative solutions
@@ -25,7 +25,10 @@
 <div style="display: inline_block"> <img align="center" alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"/> <img align="center" alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/> <img align="center" alt="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"/> </div>
 
 ### 📚 Currently Learning
-<div style="display: inline_block"> <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+<div style="display: inline_block"> 
+        <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+        <img align="center" alt="C" height="40" src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" title="Assembly"/>
+        
 </div>
 
 ## 🌟 Featured Projects
