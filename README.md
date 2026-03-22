@@ -1,69 +1,98 @@
-# 👋 Hey there! I'm Munique Feitoza 
+# 👋 Olá! Sou Munique Feitoza
 
-## 🚀 "Full Stack" Developer in Training | JavaScript, Python, C and Assembly Enthusiast | Tech Explorer
+### Engenheira de Software | Desenvolvedora Full-Cycle & Especialista em Baixo Nível
 
-```diff
-+ Passionate about turning ideas into code and building creative solutions
-+ Currently studying Systems Analysis and Development
-+ Self-taught developer with a strong desire to learn and grow
-```
+Engenheira de Software focada no desenvolvimento de sistemas robustos, desde a arquitetura de banco de dados e front-end até ferramentas de rede e soluções escovando bits no backend. Minha missão é construir software de alta performance e não ter medo de mexer na infraestrutura.
 
-## 🛠️ Tech Stack
+- 🖥️ **Ambiente de Batalha:** Meu habitat natural é o **Manjaro Linux**, otimizado para extrair o máximo do hardware, seja no desktop HP pessoal ou no Dell corporativo.
+- ⚙️ **Foco Atual:** Arquitetura de sistemas, automação, segurança, Rust, e dominar o caos de sistemas em produção.
 
-### 💻 Core Skills
-<div style="display: inline_block"> 
-        <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/> 
-        <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/> 
-        <img align="center" alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/> 
-        <img align="center" alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/> 
-        <img align="center" alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-        <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/> 
-        <img align="center" alt="Bootstrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap"/> 
-</div>
+---
 
-### 🗃️ Database Expertise
-<div style="display: inline_block"> <img align="center" alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"/> <img align="center" alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/> <img align="center" alt="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"/> </div>
+### 💻 Stack Tecnológico e Arsenal
 
-### 📚 Currently Learning
-<div style="display: inline_block"> 
-        <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
-        <img align="center" alt="C" height="40" src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" title="Assembly"/>
-        
-</div>
+**Baixo Nível & Sistemas**
+<br>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logoColor=white" alt="Assembly" />
 
-## 🌟 Featured Projects
-1. [Pokédex in JavaScript](https://github.com/Munique-Feitoza/pokedex_in_js) - Interactive Pokédex using PokeAPI
-2. [Pacman Game](https://github.com/Munique-Feitoza/pacman_in_js) - Classic Pacman built with Canvas API
-3. [Solucionador de Sudoku](https://github.com/Munique-Feitoza/solucionador_sudoku_python) - Python implementation of the classic Sudoku
-4. [Student Monitoring System (Java)](https://github.com/Munique-Feitoza/monitoramento_de_alunos_em_java) - Desktop application for student performance tracking with MySQL database
+**Linguagens & Backend**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-## 📫 Let's Connect!
-<div style="display: inline_block"> <a href="mailto:muniquefeitoz4@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/> </a> <a href="https://www.linkedin.com/in/munique-feitoza-77034b231" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/> </a> 
-<a href="https://www.instagram.com/_nitroglycrin"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/> </a>
-</div>
+**Frontend & Web**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
-## 🌍 Languages
-🇧🇷 Portuguese (Native)  
-🇺🇸 English (Advanced)  
-🇯🇵 Japanese (Basic - N5)  
+**Bancos de Dados & Infraestrutura**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQLite-007396?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro Linux" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 
-## 🏆 Fun Facts
-🥋 Martial Artist (Jiu-Jitsu & Krav Maga)  
-💪 Fitness Enthusiast  
-☕ Coffee Connoisseur (Pilão 252°C is my favorite!)  
-🐾 Animal Lover & PETA Supporter  
+---
 
-💻 Built my first projects using just a smartphone!
+### 🚀 Projetos em Destaque
 
-+ Currently looking for internship opportunities in web development!
-+ Let's build something amazing together!
+* 💻 **[Munux-Reactive-Workspace](https://github.com/Munique-Feitoza/Munux-Reactive-Workspace)**: Um emulador de terminal reativo, gamificado e extremamente rápido. Construído totalmente em **Rust** com foco na experiência do desenvolvedor e eficiência do sistema (utilizando Ratatui e Crossterm).
+* ⚙️ **[Munux](https://github.com/Munique-Feitoza/Munux)**: O núcleo de funcionalidades e bibliotecas base de baixo nível que sustentam o ecossistema Munux, garantindo consistência e performance modular.
+* 🖥️ **[Server-Controller](https://github.com/Munique-Feitoza/server-controller)**: Solução robusta de controle e monitoramento de infraestrutura (NOC) desenvolvida em **Kotlin**. Projetada para gerenciar e visualizar o status de múltiplos servidores em tempo real.
+
+---
+### 📊 Radar de Código
 
 <div align="center">
-<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munique-Feitoza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Munique-Feitoza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munique-Feitoza&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munique-Feitoza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+<br clear="all" />
 
+---
+
+### ☕ Por Trás do Código
+
+* 🥋 **Disciplina no Tatame:** Praticante ativa de Jiu-Jitsu (Equipe Mestre Wilson). A resiliência necessária para não bater é a mesma que uso para debugar *race conditions* em produção.
+* 🔧 **Hardware Hacker:** Adoro modificações de hardware e overclocking. Faço milagre extraindo performance de soquetes antigos.
+* 🎬 **Terror e Arte Clássica:** Fissurada em filmes de terror (especialmente *found footage* e psicológico) e frequentadora assídua dos museus do RJ. Michelangelo é a minha maior referência em arte.
+* 🎧 **Soundtrack de Deploy:** O código tem muito mais chances de compilar se estiver tocando Tyler, The Creator no fone.
+
+---
+
+---
+
+### 🌍 Idiomas
+
+* 🇧🇷 **Português:** Nativo
+* 🇺🇸 **Inglês:** Avançado
+* 🇯🇵 **Japonês:** Básico (N5)
+
+---
+
+### 📫 Contatos
+
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/munique-feitoza-77034b231" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muniquefeitoz4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/_nitroglycrin" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+<br>
