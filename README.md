@@ -15,7 +15,7 @@
 
 [![HackerSec TOP 2](https://img.shields.io/badge/HackerSec-TOP%202%20Geral%20CTF-red?style=flat-square&logo=hackthebox&logoColor=white)]()
 [![HCP v2 Certified](https://img.shields.io/badge/Certification-HCP%20v2%20(Pentester)-purple?style=flat-square)]()
-[![NASA Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps-Top%2040%20Global%20Finalist%20(2025)-blue?style=flat-square&logo=nasa&logoColor=white)]()
+[![NASA Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps-Top%2040%20Global%20Finalist%20(2025)-blue?style=flat-square&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/2025/find-a-team/cosmic-weather-tales/)
 [![Linux Arch](https://img.shields.io/badge/OS-Arch%20%2F%20Manjaro%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)]()
 
 </div>
@@ -81,7 +81,7 @@ Engenheira de Software e Arquiteta de Sistemas orientada a **performance extrema
 
 * 🛡️ **[NetTools Cyber Recon Toolkit v2.0](https://github.com/Munique-Feitoza/Ferramentas_de_Rede_em_Python)**: Suite completa de auditoria de superfície de rede, fingerprinting de serviços e inspeção criptográfica TLS/SSL em Python 3 puro (`asyncio`). Inclui interface Cyberpunk TUI, packet inspector com hex dump em tempo real e relatórios automatizados de vulnerabilidade.
 * 💻 **[Munux-Reactive-Workspace](https://github.com/Munique-Feitoza/Munux-Reactive-Workspace)**: Emulador de terminal reativo, gamificado e ultrarrápido construído em **Rust** utilizando Ratatui e Crossterm, focado em DX de alta fidelidade e eficiência operacional.
-* 🛰️ **[NASA SpaceApps Global Finalist (2025)](https://www.spaceappschallenge.org)**: Aplicação desenvolvida pela equipe *Stellar Narrators*, selecionada entre os 40 melhores projetos globais da NASA em processamento de dados astronômicos.
+* 🛰️ **[NASA SpaceApps Global Finalist (2025) — Cosmic Weather Tales](https://www.spaceappschallenge.org/2025/find-a-team/cosmic-weather-tales/)**: Aplicação desenvolvida pela equipe *Cosmic Weather Tales*, selecionada como Finalista Global (Top 40 mundial) no maior hackathon espacial do mundo pela NASA.
 * 🖥️ **[Server-Controller & Pocket NOC](https://github.com/Munique-Feitoza/server-controller)**: Solução de controle e monitoramento de infraestrutura bare-metal/Linux em tempo real, integrando controladores em **Kotlin** a agentes de alta performance em **Rust**.
 * 📡 **[Spectrum](https://github.com/Munique-Feitoza/Spectrum)**: Ferramenta nativa para auditoria e telemetria móvel com arquitetura de alta performance.
 
@@ -90,10 +90,23 @@ Engenheira de Software e Arquiteta de Sistemas orientada a **performance extrema
 ### 📊 Radar de Código & Métricas
 
 <div align="center">
+
+  <!-- Troféus de Conquistas -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Munique-Feitoza&theme=tokyonight&no-frame=true&margin-w=4" alt="Troféus de Conquistas do GitHub" />
+  <br/><br/>
+
+  <!-- Estatísticas Gerais & Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api?username=Munique-Feitoza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munique-Feitoza&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" />
   <br/><br/>
+
+  <!-- Sequência Contínua de Commits (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munique-Feitoza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+
+  <!-- Gráfico de Pulso / Atividade em Tempo Real -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Munique-Feitoza&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Pulso de Atividade" />
+
 </div>
 
 ---
