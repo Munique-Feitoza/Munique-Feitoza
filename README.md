@@ -1,8 +1,8 @@
 <div align="center">
 
 # ⚡ Munique Feitoza
-### **Software Engineer Full-Cycle · Low-Level Systems & Cybersecurity Specialist**
-*Construindo software de alta performance do bare-metal à interface final.*
+### **Software & Systems Engineer | Platform & SRE**
+*Sistemas de Baixo Nível · Infraestrutura de Alta Performance · Segurança & Confiabilidade*
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ### 🛡️ Sobre Mim
 
-Engenheira de Software e Arquiteta de Sistemas orientada a **performance extrema, engenharia de baixo nível e segurança de ponta a ponta**. Minha atuação une a concepção de arquiteturas corporativas escaláveis ao domínio prático da máquina: desde protocolos de rede, sockets e escovação de bits até interfaces reativas e governança de servidores bare-metal Linux.
+Engenheira de Software e de Sistemas orientada a **performance extrema, confiabilidade (SRE/Platform), engenharia de baixo nível e segurança de ponta a ponta**. Minha atuação une o desenvolvimento de sistemas de missão crítica e agentes de telemetria nativos ao domínio prático da máquina: protocolos de rede, sockets, sistemas operacionais, eliminação de gargalos de latência e governança de servidores bare-metal Linux.
 
 - 🏆 **Cibersegurança & CTF:** **TOP 2 Geral na HackerSec** (100% de resolução de desafios práticos de exploração) e certificada **HCP v2 (HackerSec Certified Pentester)**.
 - 🚀 **Reconhecimento Global:** **Finalista Global (Top 40 mundial)** no **NASA Space Apps Challenge 2025** com o projeto *Stellar Narrators*, processando dados complexos da agência espacial.
@@ -64,13 +64,13 @@ Engenheira de Software e Arquiteta de Sistemas orientada a **performance extrema
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-#### **Frontend, Terminal & Infraestrutura**
+#### **Plataforma, Infraestrutura & Confiabilidade**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Ratatui_TUI-11111b?style=for-the-badge&logo=terminal&logoColor=00ff88" alt="Ratatui" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
 </div>
