@@ -13,7 +13,7 @@
 
 <br/>
 
-[![IBM z/OS & COBOL](https://img.shields.io/badge/Mainframe-IBM_z%2FOS_%C2%B7_COBOL_%C2%B7_JCL-052FAD?style=flat-square&logo=ibm&logoColor=white)]()
+[![IBM Z Xplore Advanced](https://img.shields.io/badge/IBM_Z_Xplore-Advanced_%C2%B7_Concepts_%C2%B7_Enterprise_COBOL-052FAD?style=flat-square&logo=ibm&logoColor=white)]()
 [![HackerSec TOP 2](https://img.shields.io/badge/HackerSec-TOP_2_Geral_CTF_%7C_HCP_v2-red?style=flat-square&logo=hackthebox&logoColor=white)]()
 [![NASA Space Apps](https://img.shields.io/badge/NASA_Space_Apps-Top_40_Global_Finalist_(2025)-blue?style=flat-square&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/2025/find-a-team/cosmic-weather-tales/)
 [![Linux](https://img.shields.io/badge/OS-Arch_%2F_Manjaro_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)]()
@@ -28,7 +28,7 @@ Engenheira de Software e de Sistemas com atuação voltada a **ambientes de miss
 
 Uno a disciplina clássica dos grandes sistemas transacionais (**COBOL, JCL, DB2/VSAM, z/Architecture e LinuxONE**) à engenharia moderna de sistemas operacionais, telemetria bare-metal e segurança defensiva/ofensiva:
 
-- 🏦 **Mainframe & Sistemas Financeiros de Missão Crítica:** Foco em **COBOL**, **IBM z/OS**, **JCL**, **HLASM** e processamento batch/transacional de alta disponibilidade para o setor bancário.
+- 🏦 **Mainframe & Sistemas Financeiros de Missão Crítica:** Certificada pela IBM em **IBM Z Xplore – Advanced**, **IBM Z Xplore – Concepts** e **Enterprise COBOL Programming with VSCode**, com prática em **Enterprise COBOL**, **IBM z/OS**, **JCL**, **ISPF**, **USS (Unix System Services)** e automação com **Ansible para z/OS**.
 - ⚙️ **Engenharia de Baixo Nível & Linux Internals:** Desenvolvimento de agentes nativos em **Rust** e **C**, depuração de hardware/firmware e administração avançada de servidores Linux bare-metal.
 - 🏆 **Cibersegurança & AppSec:** **TOP 2 no Ranking Geral da HackerSec** (100% dos desafios de CTF concluídos) e certificada **HCP v2 (HackerSec Certified Pentester)**.
 - 🚀 **Reconhecimento Internacional:** **Finalista Global (Top 40 mundial)** no **NASA Space Apps Challenge 2025**.
