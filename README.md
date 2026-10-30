@@ -95,9 +95,13 @@ Uno a disciplina clássica dos grandes sistemas transacionais (**COBOL, JCL, DB2
 <div align="center">
 
   <p align="center">
-    <img height="185" src="https://github-readme-stats.vercel.app/api?username=Munique-Feitoza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Munique-Feitoza&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
     &nbsp;
-    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munique-Feitoza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Munique-Feitoza&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  </p>
+
+  <p align="center">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Munique-Feitoza&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 
 </div>
@@ -106,6 +110,7 @@ Uno a disciplina clássica dos grandes sistemas transacionais (**COBOL, JCL, DB2
 
 ### 🥋 Além do Terminal
 
-* 🥋 **Tatame & Resiliência:** Praticante de Jiu-Jitsu (Equipe Mestre Wilson) — disciplina, leitura de cenário e calma sob pressão aplicadas tanto no tatame quanto na sustentação de sistemas críticos.
-* 🔧 **Hardware & Silício:** Diagnóstico de baixo nível, depuração de firmwares ACPI/BIOS e otimização de sistemas Linux direto no metal.
-* 🎨 **Arte & Cinema:** Admiradora de escultura renascentista (Michelangelo) e cinema de suspense/terror psicológico.
+* 🥋 **Tatame & Resiliência:** Praticante ativa de Jiu-Jitsu (Equipe Mestre Wilson). A disciplina para não bater e manter a calma na pressão é a mesma usada para mitigar incidentes críticos em produção.
+* 🔧 **Hardware Hacking & Overclocking:** Entusiasta de modificações de hardware físico, delidding, diagnóstico de firmwares ACPI/BIOS e extração máxima de throughput e performance de silício.
+* 🎬 **Cinema Psicológico & Arte:** Admiradora de cinema de terror (found footage e psicológico) e museus de belas artes. Michelangelo é minha maior referência estética e estrutural.
+* 🎧 **Soundtrack de Deploy:** Terminal flui melhor ao som de Tyler, The Creator.
